@@ -1,0 +1,274 @@
+canonical_identifier: bkk:krp/KR3eh041/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh041/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 增訂十藥神書
+  identifiers:
+    krp: KR3eh041
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh041.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh041_000-jc.yaml, hash: 'sha256:d3d15bb4573d800ac15c32c4534d4806d2c9ec88756bc46b6b46ecd00d2da2ae'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh041_000-jc.markers.yaml, hash: 'sha256:3b24ed83bca4f719d600bec0b1d905e860f5b84b4dc09331cb629b4de3cf413f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 248
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d3.h1s1
+    span:
+    - front
+    - 248
+    - 428
+  label: 潘序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d4.h1s1
+    span:
+    - front
+    - 428
+    - 857
+  label: 周序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 636
+  label: 十藥總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d6.h1s1
+    span:
+    - body
+    - 636
+    - 1068
+  label: 甲字十灰散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d7.h1s1
+    span:
+    - body
+    - 1068
+    - 1233
+  label: 乙字花蕊石散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d8.h1s1
+    span:
+    - body
+    - 1233
+    - 2050
+  label: 甲乙二方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d9.h1s1
+    span:
+    - body
+    - 2050
+    - 2183
+  label: 丙字獨參湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d10.h1s1
+    span:
+    - body
+    - 2183
+    - 2750
+  label: 丙字人參湯論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d11.h1s1
+    span:
+    - body
+    - 2750
+    - 3067
+  label: 丁字保和湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d12.h1s1
+    span:
+    - body
+    - 3067
+    - 3491
+  label: 加減歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d13.h1s1
+    span:
+    - body
+    - 3491
+    - 3696
+  label: 戊字保真湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d14.h1s1
+    span:
+    - body
+    - 3696
+    - 3755
+  label: 加減歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d15.h1s1
+    span:
+    - body
+    - 3755
+    - 4174
+  label: 丁戊二湯方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d16.h1s1
+    span:
+    - body
+    - 4174
+    - 4431
+  label: 己字太平丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d17.h1s1
+    span:
+    - body
+    - 4431
+    - 4808
+  label: 己字太平丸論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d18.h1s1
+    span:
+    - body
+    - 4808
+    - 4938
+  label: 庚字沉香消化丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d19.h1s1
+    span:
+    - body
+    - 4938
+    - 6236
+  label: 庚字消化丸論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d20.h1s1
+    span:
+    - body
+    - 6236
+    - 6332
+  label: 辛字潤肺膏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d21.h1s1
+    span:
+    - body
+    - 6332
+    - 6767
+  label: 辛字潤肺膏論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d22.h1s1
+    span:
+    - body
+    - 6767
+    - 7216
+  label: 壬字白鳳膏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d23.h1s1
+    span:
+    - body
+    - 7216
+    - 8663
+  label: 癸字補髓丹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d24.h1s1
+    span:
+    - body
+    - 8663
+    - 8712
+  label: 平胃散方附
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d25.h1s1
+    span:
+    - body
+    - 8712
+    - 8731
+  label: 四君子湯附
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh041_jc_000-d26.h1s1
+    span:
+    - body
+    - 8731
+    - 9162
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:30a050427c6ffa2eeb49ed5d237624f14d869831063b653ebc30b1cd55e81854
